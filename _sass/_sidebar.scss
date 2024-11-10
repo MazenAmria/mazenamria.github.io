@@ -52,7 +52,11 @@
   }
 
   img {
-    width: 100%;
+    width: 900px;
+    height: 900px;
+    max-width: 900px;
+    transform: translate(-45%, -26%);
+    max-height: 900px;
   }
 }
 
@@ -82,21 +86,17 @@
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
+  overflow: hidden;
+  border-radius: 50%;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    padding: 5px;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    border: 1px solid $border-color;
   }
 }
 
