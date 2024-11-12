@@ -30,24 +30,24 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=ESCDmpkAAAAJ
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0006-9217-5044
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Mazen-Amria
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : MazenAmria
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : # Username
+  linkedin         : mazenamria
   medium           : # URL
   twitter          : # Username for X / Twitter
 
